@@ -25,7 +25,7 @@ en el "repeater" vamos a modificar el "administrator"
 
 ahora vamos a comprobar que funciona 
 
-![[vulnerabilidades/web academy/SQL injection/test 6.png]]
+![image](https://github.com/user-attachments/assets/73bc314c-ef4a-423c-b6c4-f6188b66d8e4)
 
 y como se ve, es vulnerable a una injection SQL. 
 
