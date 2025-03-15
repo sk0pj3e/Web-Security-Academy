@@ -17,7 +17,7 @@ luego bajamos y le damos a  "check stock"
 
 y en burpsuite deberemos capturar ese "stock api", entonces si lo enviamos tal y como esta, nos mostrara los stock, así que modificamos con el "localhost" 
 
-
+![image](https://github.com/user-attachments/assets/4c855086-c18b-402f-9441-be79e23455dc)
 
 ![[tet 4.png]]
 
