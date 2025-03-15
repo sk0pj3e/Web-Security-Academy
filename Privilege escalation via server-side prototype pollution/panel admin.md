@@ -18,7 +18,8 @@ y tendremos un login que entraremos con las credenciales normales
 las credenciales son "wiener" y contraseña "peter"
 entonces nos vamos a fijar en dos cosas
 
-![[vulnerabilidades/web academy/proto/test3.png]]
+![image](https://github.com/user-attachments/assets/9b3a699a-8bfb-4142-9a54-801a1631d29c)
+
 al costado de "home" deberá aparecer  un "admin panel" si es que funciona la vulnerabilidad de prototipos de java script.
 
 ![[vulnerabilidades/web academy/proto/test4.png]]
