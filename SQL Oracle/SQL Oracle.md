@@ -33,7 +33,7 @@ o con
 
      '+order+by+3--
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test3.png]]
+![image](https://github.com/user-attachments/assets/31ed70f4-7f9f-4b66-87bd-657c5f36598d)
 
 y por ultimo probamos con el "3"
 
