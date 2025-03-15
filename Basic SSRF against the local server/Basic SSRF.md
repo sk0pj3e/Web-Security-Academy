@@ -39,7 +39,7 @@ veremos dos cosas al entrar
 
 primero que tenemos el "panel de admin" y podemos eliminar usuarios, y uno de los objetivos del laboratorio es poder eliminar al usuario "carlos" 
 
-![[test 9.png]]
+![image](https://github.com/user-attachments/assets/e491dd02-97e5-4924-b52d-656c00ac5328)
 
 pero nos pedirá que nos entremos como administrador desde el login lo cual no podemos. así que bajaremos en el código y lo agregamos al "stockApi" que tenemos
 
