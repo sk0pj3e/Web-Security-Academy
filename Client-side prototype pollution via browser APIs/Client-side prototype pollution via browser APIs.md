@@ -18,7 +18,7 @@ le vamos agregar corchetes al "foo" y funciona
 
 lo que hace esto es que nos muestra como funciona el código por detrás
 
-![[codigo.png]]
+![image](https://github.com/user-attachments/assets/d2a4af8b-2e79-4fc1-a387-ea67be276898)
 
 y lo que vemos es esto: 
 
