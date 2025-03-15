@@ -39,4 +39,4 @@ también si no funciona con este se puede probar con otro parámetro como este
 
 y tenemos la vulnerabilidad y el laboratorio completado
 
-![[vulnerabilidades/web academy/client-side prototype/final1.png]]
+![image](https://github.com/user-attachments/assets/ce9f3209-8b3c-468f-87df-623e2931b3ac)
