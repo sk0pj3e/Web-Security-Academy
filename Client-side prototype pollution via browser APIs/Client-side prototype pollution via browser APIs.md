@@ -6,7 +6,7 @@ tiene como objetivo enseñar e identificar y explotar vulnerabilidades de contam
 
 Primero vamos a la pagina e introducimos un "proto"
 
-![[vulnerabilidades/web academy/client-side prototype/test1.png]]
+![image](https://github.com/user-attachments/assets/11ec7cd9-0b0e-4403-bc9c-cefa9c1919d7)
 
 pero la inyección no funciono así que la vamos a seguir modificando 
 
