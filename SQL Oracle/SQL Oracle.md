@@ -23,7 +23,7 @@ ahora en Repeater vamos a empezar a modificar las solicitudes con "ORDER", Prime
 
 que debería; si es que la vulnerabilidad esta, darnos una respuesta "200 OK"
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test 2.png]]
+![image](https://github.com/user-attachments/assets/18f9227e-3c1a-4cfb-a877-b52171d0c4a0)
 
 modificamos el GET y veremos que nos da la respuesta esperada. y como vemos que esta consulta funciona es que al menos una columna existe. o sea que podemos probar con aumentar el numero por ejemplo:
 
