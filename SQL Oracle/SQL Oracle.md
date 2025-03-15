@@ -10,7 +10,7 @@ Explicación Técnica
 
 Primero vamos a capturar el código de la pagina y lo enviaremos al Repeater
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test1.png]]
+![image](https://github.com/user-attachments/assets/418b6ff3-f6af-44e1-8abd-efd556a85009)
 
 ahora en Repeater vamos a empezar a modificar las solicitudes con "ORDER", Primero vamos a probar con este: 
 
