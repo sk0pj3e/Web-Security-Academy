@@ -35,7 +35,7 @@ también si no funciona con este se puede probar con otro parámetro como este
 
     ?__proto__[value]=data:text/javascript,alert()
 
-![[vulnerabilidades/web academy/client-side prototype/final.png]]
+![image](https://github.com/user-attachments/assets/8e7f6c8d-76f7-4acb-a00e-5a95f3944e5e)
 
 y tenemos la vulnerabilidad y el laboratorio completado
 
