@@ -51,7 +51,7 @@ en burpsuite nos saldrá así
 
 y en la pagina 
 
-![[vulnerabilidades/web academy/basic SSRF against/final.png]]
+![image](https://github.com/user-attachments/assets/aeeed1ab-c421-472c-9cad-1a6f877197b3)
 
 el laboratorio se logo con éxito. 
 
