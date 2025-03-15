@@ -27,7 +27,7 @@ veremos eso con la URL como viene, le agregamos el "localhost"
 
 y la respuesta es completamente diferente. entonces le presionamos aqui
 
-![[vulnerabilidades/web academy/basic SSRF against/test 6.png]]
+![image](https://github.com/user-attachments/assets/2a0a3004-c3b8-439f-9a7f-62c4f0b6360d)
 
 en "show response in browser" y nos dará una URL 
 
