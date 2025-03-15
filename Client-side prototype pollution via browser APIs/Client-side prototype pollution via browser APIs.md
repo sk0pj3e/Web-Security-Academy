@@ -14,7 +14,7 @@ pero la inyección no funciono así que la vamos a seguir modificando
 
 le vamos agregar corchetes al "foo" y funciona
 
-![[vulnerabilidades/web academy/client-side prototype/test3.png]]
+![image](https://github.com/user-attachments/assets/c52ebdf9-207f-490d-811d-09deadbb5646)
 
 lo que hace esto es que nos muestra como funciona el código por detrás
 
