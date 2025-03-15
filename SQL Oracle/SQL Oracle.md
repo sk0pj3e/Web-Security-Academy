@@ -73,7 +73,7 @@ y como vemos tenemos resultado, nos da el usuario "Peter" que es el usuario pred
 
      '+UNION+SELECT+sys.database_name,'prueba 3 vuln'+FROM+dual-- 
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test8.png]]
+![image](https://github.com/user-attachments/assets/a07c23d1-7536-429e-8efb-aa80d98533a6)
 
 y obtenemos resultado con el "XE", también podemos probar con obtener las tablas
 
