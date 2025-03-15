@@ -22,7 +22,7 @@ entonces nos vamos a fijar en dos cosas
 
 al costado de "home" deberá aparecer  un "admin panel" si es que funciona la vulnerabilidad de prototipos de java script.
 
-![[vulnerabilidades/web academy/proto/test4.png]]
+![image](https://github.com/user-attachments/assets/67915ce7-b8e1-4eb7-bfac-cf6a2f6f3051)
 
 tomamos la solicitud que capta burpsuite del navegador y obtenemos el cambio que le hicimos para ver si esta tomando o no, y vemos que esta tomando 
 
