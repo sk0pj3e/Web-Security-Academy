@@ -13,7 +13,7 @@ y empezamos a buscar la vulnerabilidad, nos vamos a "my account"
 
 y tendremos un login que entraremos con las credenciales normales
 
-![[vulnerabilidades/web academy/proto/test2.png]]
+![image](https://github.com/user-attachments/assets/3bc2f460-6f5b-423e-b52d-e6c463487c1e)
 
 las credenciales son "wiener" y contraseña "peter"
 entonces nos vamos a fijar en dos cosas
