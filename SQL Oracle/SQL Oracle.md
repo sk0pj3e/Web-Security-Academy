@@ -49,7 +49,7 @@ pero con el numero 3 nos da "server error" o sea que solo hay "2" columnas. lo q
 - NULL, NULL: se usa para igualar el numero de columnas de la consulta original
 - FROM dual: en oracle, dual es una tabla especial utilizada para obtener resultados sin acceder a datos reales. 
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test5.png]]
+![image](https://github.com/user-attachments/assets/67e00c5b-c5aa-4387-93f7-c88517535922)
 
 y como vemos tenemos la respuesta de "200 OK" mas el código, asi que vamos a validar el tipo de dato por cada campo
 
