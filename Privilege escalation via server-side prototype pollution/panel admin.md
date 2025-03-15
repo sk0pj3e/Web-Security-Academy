@@ -65,7 +65,7 @@ lo modificamos y lo dejamos así:
 
 y si lo enviamos obtendremos lo que buscábamos, tener acceso al panel de administración. 
 
-![[vulnerabilidades/web academy/proto/final.png]]
+![image](https://github.com/user-attachments/assets/db4b0925-5e2b-4752-9e32-af0b14c32c21)
 
 y como se ve obtenemos lo que buscábamos. 
 
