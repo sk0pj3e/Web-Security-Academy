@@ -26,7 +26,7 @@ al costado de "home" deberá aparecer  un "admin panel" si es que funciona la vu
 
 tomamos la solicitud que capta burpsuite del navegador y obtenemos el cambio que le hicimos para ver si esta tomando o no, y vemos que esta tomando 
 
-![[vulnerabilidades/web academy/proto/test5.png]]
+![image](https://github.com/user-attachments/assets/761b586e-4b6f-442b-91dc-589a9c177d23)
 
 al enviar nos aparece como "isadmin: false" y eso es lo que vamos a intentar cambiar con la vulnerabilidad de prototipos. primero vamos a intentar inyectar una propiedad en el prototipo global de "object" y eso lo aplico con un "foo": "bar" lo que hace es que cualquier objeto creado posteriormente heredara ese código, entonces esto probara y confirmara si la aplicación es susceptible a la vulnerabilidad antes de colocar el "isadmin": true. 
 
