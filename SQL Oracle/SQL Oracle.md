@@ -53,7 +53,7 @@ pero con el numero 3 nos da "server error" o sea que solo hay "2" columnas. lo q
 
 y como vemos tenemos la respuesta de "200 OK" mas el código, asi que vamos a validar el tipo de dato por cada campo
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test6.png]]
+![image](https://github.com/user-attachments/assets/fd8fbc95-f963-4fcd-b4ad-3c5526801c51)
 
 Como vemos muestra el resultado o sea que si probamos con cadenas de texto para comprobar si los campos aceptan valores tipos STRING, el codigo quedaria 
 
