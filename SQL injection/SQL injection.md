@@ -11,7 +11,7 @@ entramos al laboratorio: https://portswigger.net/web-security/sql-injection/lab-
 
 Primero vamos a colocar el usuario que nos da el laboratorio que es "administrator" pero con una contraseña X
 
-![[vulnerabilidades/web academy/SQL injection/test2.png]]
+![image](https://github.com/user-attachments/assets/6a7a507f-c24d-42c4-87a9-b89a10ea64ee)
 
 lo capturamos en burpsuite 
 
