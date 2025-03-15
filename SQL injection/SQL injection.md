@@ -7,7 +7,7 @@ Ejemplo de la vulnerabilidad:
 
 entramos al laboratorio: https://portswigger.net/web-security/sql-injection/lab-login-bypass
 
-![[vulnerabilidades/web academy/SQL injection/test 1.png]]
+![image](https://github.com/user-attachments/assets/5e8fe8a1-9d00-4748-88ae-024bddaf1501)
 
 Primero vamos a colocar el usuario que nos da el laboratorio que es "administrator" pero con una contraseña X
 
