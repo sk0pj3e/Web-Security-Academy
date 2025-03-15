@@ -9,7 +9,7 @@ La vulnerabilidad suele estar en una funcionalidad que recupera recursos de una 
 
 primero entramos al primer "producto" y le presionamos "detalle" 
 
-![[vulnerabilidades/web academy/basic SSRF against/test 1.png]]
+![image](https://github.com/user-attachments/assets/48b56bf0-f23b-4c57-9048-117438d77027)
 
 luego bajamos y le damos a  "check stock" 
 
