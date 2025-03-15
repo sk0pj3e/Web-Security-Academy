@@ -67,7 +67,7 @@ ahora como sabemos que tenemos resultado en eso, vamos a probar con algun usuari
 
      '+UNION+SELECT+user,'prueba 2 de vul'+FROM+dual-- HTTP/2
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test7.png]]
+![image](https://github.com/user-attachments/assets/b3784b61-803c-4c3c-8a6a-87f39ed608d7)
 
 y como vemos tenemos resultado, nos da el usuario "Peter" que es el usuario predeterminado del laboratorio. ahora vamos a probar un payload para obtener nombres de la base de datos. 
 
