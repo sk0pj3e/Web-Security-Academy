@@ -35,7 +35,7 @@ en "show response in browser" y nos dará una URL
 
 veremos dos cosas al entrar
 
-![[test 8.png]]
+![image](https://github.com/user-attachments/assets/c5047af8-9bcc-4c4b-b247-9c6472a33f7e)
 
 primero que tenemos el "panel de admin" y podemos eliminar usuarios, y uno de los objetivos del laboratorio es poder eliminar al usuario "carlos" 
 
