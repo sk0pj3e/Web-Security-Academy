@@ -47,7 +47,7 @@ pero nos pedirá que nos entremos como administrador desde el login lo cual no p
 
 en burpsuite nos saldrá así
 
-![[test 11.png]]
+![image](https://github.com/user-attachments/assets/6f897e9d-6312-419b-a5bd-55651acd38cd)
 
 y en la pagina 
 
