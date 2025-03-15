@@ -30,7 +30,7 @@ tomamos la solicitud que capta burpsuite del navegador y obtenemos el cambio que
 
 al enviar nos aparece como "isadmin: false" y eso es lo que vamos a intentar cambiar con la vulnerabilidad de prototipos. primero vamos a intentar inyectar una propiedad en el prototipo global de "object" y eso lo aplico con un "foo": "bar" lo que hace es que cualquier objeto creado posteriormente heredara ese código, entonces esto probara y confirmara si la aplicación es susceptible a la vulnerabilidad antes de colocar el "isadmin": true. 
 
-![[vulnerabilidades/web academy/proto/test6.png]]
+![image](https://github.com/user-attachments/assets/e476a738-e444-439f-9223-93d9d8fde0cc)
 
 y como vemos se agrega en el código, no da el error ni nada. asi que ahora vamos a cambiar el foo bar por un "isadmin": "true"
 
