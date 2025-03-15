@@ -34,7 +34,7 @@ al enviar nos aparece como "isadmin: false" y eso es lo que vamos a intentar cam
 
 y como vemos se agrega en el código, no da el error ni nada. asi que ahora vamos a cambiar el foo bar por un "isadmin": "true"
 
-![[vulnerabilidades/web academy/proto/test7.png]]
+![image](https://github.com/user-attachments/assets/3a3cbade-2d2a-4471-947a-e8601ac4c863)
 
 como vemos y nombre, veremos que al borrar el "foo" y colocar el "isadmin" aun aparece el foo el enviar otra vez. y me equivoque el enviar el codigo y lo modifique porque como se ve sigue sin funcionar el primer "false"
 
