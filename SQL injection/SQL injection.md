@@ -21,7 +21,7 @@ en el "repeater" vamos a modificar el "administrator"
 
 ![image](https://github.com/user-attachments/assets/53f563e0-6f3b-4cfe-8b04-2c4af4c77a90)
 
-![[vulnerabilidades/web academy/SQL injection/test 5.png]]
+![image](https://github.com/user-attachments/assets/130e4cbd-6a38-490c-b525-22762002d20c)
 
 ahora vamos a comprobar que funciona 
 
