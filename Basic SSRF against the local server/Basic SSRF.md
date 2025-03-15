@@ -23,7 +23,7 @@ y en burpsuite deberemos capturar ese "stock api", entonces si lo enviamos tal y
 
 veremos eso con la URL como viene, le agregamos el "localhost"
 
-![[vulnerabilidades/web academy/basic SSRF against/test 5.png]]
+![image](https://github.com/user-attachments/assets/f48d5655-fe67-4b7f-a31c-cbe5b2f7b746)
 
 y la respuesta es completamente diferente. entonces le presionamos aqui
 
