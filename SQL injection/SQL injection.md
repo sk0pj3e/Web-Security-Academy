@@ -19,7 +19,7 @@ lo capturamos en burpsuite
 
 en el "repeater" vamos a modificar el "administrator" 
 
-![[test 4.png]]
+![image](https://github.com/user-attachments/assets/53f563e0-6f3b-4cfe-8b04-2c4af4c77a90)
 
 ![[vulnerabilidades/web academy/SQL injection/test 5.png]]
 
