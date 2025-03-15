@@ -37,7 +37,7 @@ o con
 
 y por ultimo probamos con el "3"
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test4.png]]
+![image](https://github.com/user-attachments/assets/8640cb4b-4cc8-4039-88d5-c05bfd987f1b)
 
 pero con el numero 3 nos da "server error" o sea que solo hay "2" columnas. lo que ahora vamos a probar con otra consulta. 
 
