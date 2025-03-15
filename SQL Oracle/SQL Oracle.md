@@ -85,7 +85,7 @@ tenemos las tablas de la base de datos, ahora vamos a probar con consultar la ve
 
 > *Extraer la versión del motor de base de datos*: ahora que sabemos que cantidad y tipo de columnas aceptadas en la consulta, es posible usar funciones especificas del DBMS para obtener su versión. Esto en un ataque ayuda a identificar vulnerabilidades conocidas en esa versión que hay y planificar ataques mas avanzados.  
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test10.png]]
+![image](https://github.com/user-attachments/assets/212afb7c-8fae-4aa7-ba82-2ed9f1862281)
 
 entonces probamos el comando: 
 
