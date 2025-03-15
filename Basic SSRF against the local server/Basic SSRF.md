@@ -31,7 +31,7 @@ y la respuesta es completamente diferente. entonces le presionamos aqui
 
 en "show response in browser" y nos dará una URL 
 
-![[test 7.png]]
+![image](https://github.com/user-attachments/assets/92e32906-4667-4214-949f-5f6ed1aae216)
 
 veremos dos cosas al entrar
 
