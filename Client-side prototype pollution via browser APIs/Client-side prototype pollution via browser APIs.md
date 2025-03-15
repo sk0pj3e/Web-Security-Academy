@@ -10,7 +10,7 @@ Primero vamos a la pagina e introducimos un "proto"
 
 pero la inyección no funciono así que la vamos a seguir modificando 
 
-![[vulnerabilidades/web academy/client-side prototype/test2.png]]
+![image](https://github.com/user-attachments/assets/c3408dfb-2c3b-4263-a29c-04d48d3bbf43)
 
 le vamos agregar corchetes al "foo" y funciona
 
