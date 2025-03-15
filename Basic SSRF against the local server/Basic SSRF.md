@@ -43,7 +43,7 @@ primero que tenemos el "panel de admin" y podemos eliminar usuarios, y uno de lo
 
 pero nos pedirá que nos entremos como administrador desde el login lo cual no podemos. así que bajaremos en el código y lo agregamos al "stockApi" que tenemos
 
-![[test 10.png]]
+![image](https://github.com/user-attachments/assets/c5547620-96db-4148-9cc1-360549ba7ef3)
 
 en burpsuite nos saldrá así
 
