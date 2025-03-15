@@ -79,7 +79,7 @@ y obtenemos resultado con el "XE", también podemos probar con obtener las tabla
 
      '+UNION+SELECT+table_name,+NULL+FROM+all_tables-- 
 
-![[vulnerabilidades/web academy/SQL injection Oracle/test9.png]]
+![image](https://github.com/user-attachments/assets/50d91c5a-e698-4ea6-98d4-33b4151817b6)
 
 tenemos las tablas de la base de datos, ahora vamos a probar con consultar la versión de BD
 
