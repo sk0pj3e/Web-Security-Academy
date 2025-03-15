@@ -22,7 +22,7 @@ lo que hace esto es que nos muestra como funciona el código por detrás
 
 y lo que vemos es esto: 
 
-![[logger.png]]
+![image](https://github.com/user-attachments/assets/ace3a9fd-f5c6-48cb-9e91-255c2bf226af)
 
 al cargar la pagina se genera un "searchlogger()" en este contexto probablemente se usa para registrar consultar de búsquedas y detectar intentos de manipulación maliciosa en la aplicación 
 los demás marcados con el cuadro rojo como "transport_url"; su protección contra "object.defineproperty()" se logra su modificación directa en el prototipo. esto evita que un atacante altere su comportamiento mediante contaminación de prototipos, asegurando que la propiedad mantenga su valor original y seguro. cuanto el código se ejecute  el "if(config.transport_url)" el código intentara acceder explícitamente a propiedades del objeto o sea el "object.defineproperty()" así que podemos contaminar el prototipo dejando la URL así. 
