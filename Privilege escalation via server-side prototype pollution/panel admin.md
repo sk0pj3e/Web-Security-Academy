@@ -9,7 +9,7 @@ primero abrimos burpsuite y nos vamos a su browser, ahí nos vamos a https://0a4
 
 y empezamos a buscar la vulnerabilidad, nos vamos a "my account"
 
-![[vulnerabilidades/web academy/proto/test1.png]]
+![image](https://github.com/user-attachments/assets/df5d0a47-2590-422d-aebc-622cd71553bd)
 
 y tendremos un login que entraremos con las credenciales normales
 
