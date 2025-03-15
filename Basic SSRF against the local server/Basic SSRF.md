@@ -13,7 +13,7 @@ primero entramos al primer "producto" y le presionamos "detalle"
 
 luego bajamos y le damos a  "check stock" 
 
-![[test 2.png]]
+![image](https://github.com/user-attachments/assets/2d0e0850-a469-4b31-9b58-2298651dadb3)
 
 y en burpsuite deberemos capturar ese "stock api", entonces si lo enviamos tal y como esta, nos mostrara los stock, así que modificamos con el "localhost" 
 
