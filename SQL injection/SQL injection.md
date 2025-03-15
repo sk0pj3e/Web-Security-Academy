@@ -15,7 +15,7 @@ Primero vamos a colocar el usuario que nos da el laboratorio que es "administrat
 
 lo capturamos en burpsuite 
 
-![[vulnerabilidades/web academy/SQL injection/test 3.png]]
+![image](https://github.com/user-attachments/assets/50be5d3c-f040-4b03-b152-c23691ba68a0)
 
 en el "repeater" vamos a modificar el "administrator" 
 
