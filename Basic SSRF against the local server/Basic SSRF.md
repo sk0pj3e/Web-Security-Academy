@@ -19,7 +19,7 @@ y en burpsuite deberemos capturar ese "stock api", entonces si lo enviamos tal y
 
 ![image](https://github.com/user-attachments/assets/4c855086-c18b-402f-9441-be79e23455dc)
 
-![[tet 4.png]]
+![image](https://github.com/user-attachments/assets/08b88123-2b88-4189-b789-5e849edac39f)
 
 veremos eso con la URL como viene, le agregamos el "localhost"
 
